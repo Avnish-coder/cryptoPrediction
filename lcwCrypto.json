@@ -1,0 +1,287 @@
+[
+              {
+                            "name": "NEAR",
+                            "price": "$13.25",
+                            "YearPer": "+0.94%",
+                            "volume": "$425.54 M",
+                            "marketCap": "$8.06 B"
+              },
+              {
+                            "name": "Lido",
+                            "price": "$3,332.90",
+                            "YearPer": "+0%",
+                            "volume": "$547,590\n M",
+                            "marketCap": "$9.39 B"
+              },
+              {
+                            "name": "Polygon",
+                            "price": "$1.722",
+                            "YearPer": "+62.66%",
+                            "volume": "$698.80 M",
+                            "marketCap": "$13.26 B"
+              },
+              {
+                            "name": "Cosmos",
+                            "price": "$30.52",
+                            "YearPer": "+13.20%",
+                            "volume": "$580.08 M",
+                            "marketCap": "$8.89 B"
+              },
+              {
+                            "name": "Litecoin",
+                            "price": "$131.34",
+                            "YearPer": "+18.83%",
+                            "volume": "$841.11 M",
+                            "marketCap": "$9.19 B"
+              },
+              {
+                            "name": "Bitcoin",
+                            "price": "$381.02",
+                            "YearPer": "+14.31%",
+                            "volume": "$607.78 M",
+                            "marketCap": "$7.25 B"
+              },
+              {
+                            "name": "Chainlink",
+                            "price": "$17.19",
+                            "YearPer": "+12.95%",
+                            "volume": "$655.06 M",
+                            "marketCap": "$8.03 B"
+              },
+              {
+                            "name": "Cronos",
+                            "price": "$0.4942",
+                            "YearPer": "+64.05%",
+                            "volume": "$116.83 M",
+                            "marketCap": "$9.43 B"
+              },
+              {
+                            "name": "TRON",
+                            "price": "$0.07056",
+                            "YearPer": "+44.79%",
+                            "volume": "$1.27 M",
+                            "marketCap": "$7.19 B"
+              },
+              {
+                            "name": "Dai",
+                            "price": "$1.002",
+                            "YearPer": "-0.73%",
+                            "volume": "$66.97 M",
+                            "marketCap": "$9.26 B"
+              },
+              {
+                            "name": "Wrapped",
+                            "price": "$47,223.49",
+                            "YearPer": "+28.42%",
+                            "volume": "$84.50 M",
+                            "marketCap": "$12.95 B"
+              },
+              {
+                            "name": "BitDAO",
+                            "price": "$1.318",
+                            "YearPer": "+0%",
+                            "volume": "$8.56 M",
+                            "marketCap": "$13.18 B"
+              },
+              {
+                            "name": "FTX",
+                            "price": "$52.24",
+                            "YearPer": "+54.63%",
+                            "volume": "$127.78 M",
+                            "marketCap": "$7.18 B"
+              },
+              {
+                            "name": "Shiba Inu",
+                            "price": "$0.0000260.0000000006",
+                            "marketCap": "$1.561 B",
+                            "volume": "$26.48 B",
+                            "totalCap": "589.659 T",
+                            "allTimeHigh4": "$15.614 B",
+                            "range24": "9.30%",
+                            "low24": "$0.000024",
+                            "high24": "$0.000027",
+                            "YearPer": "+65.7 K%"
+              },
+              {
+                            "name": "XRP",
+                            "price": "$0.8648660.00001830",
+                            "marketCap": "$41.619 B",
+                            "volume": "$1.576 B",
+                            "totalCap": "$86.48 B",
+                            "allTimeHigh4": "$3.92",
+                            "range24": "5.32%",
+                            "low24": "$0.824682",
+                            "high24": "$0.871054",
+                            "YearPer": "+55.07%"
+              },
+              {
+                            "name": "Polkadot",
+                            "price": "$23.110.00048905",
+                            "marketCap": "$642.145 M",
+                            "volume": "$27.23 B",
+                            "totalCap": "1.032 B",
+                            "allTimeHigh4": "$23.858 B",
+                            "range24": "10.38%",
+                            "low24": "$20.83",
+                            "high24": "$23.24",
+                            "YearPer": "+29.84%"
+              },
+              {
+                            "name": "Solana",
+                            "price": "$110.130.00233087",
+                            "marketCap": "$1.968 B",
+                            "volume": "$57.09 B",
+                            "totalCap": "325.100 M",
+                            "allTimeHigh4": "$35.804 B",
+                            "range24": "10.85%",
+                            "low24": "$99.38",
+                            "high24": "$111.47",
+                            "YearPer": "+507.3%"
+              },
+              {
+                            "name": "Bitcoin",
+                            "price": "$47249.851.00000000",
+                            "marketCap": "$897.563 B",
+                            "volume": "$22.142 B",
+                            "totalCap": "$897.6 B",
+                            "allTimeHigh4": "$68780.77",
+                            "range24": "5.99%",
+                            "low24": "$44533.75",
+                            "high24": "$47370.58",
+                            "YearPer": "+15.7%"
+              },
+              {
+                            "name": "Binance USD",
+                            "price": "$1.020.00002154",
+                            "marketCap": "$2.864 B",
+                            "volume": "$17.88 B",
+                            "totalCap": "17.566 B",
+                            "allTimeHigh4": "$17.882 B",
+                            "range24": "0.562618%",
+                            "low24": "$1.01",
+                            "high24": "$1.02",
+                            "YearPer": "+1.97%"
+              },
+              {
+                            "name": "USD Coin",
+                            "price": "$0.9999380.00002116",
+                            "marketCap": "$2.135 B",
+                            "volume": "$52.08 B",
+                            "totalCap": "52.082 B",
+                            "allTimeHigh4": "$52.079 B",
+                            "range24": "0.145865%",
+                            "low24": "$0.999554",
+                            "high24": "$1.00",
+                            "YearPer": "+0.15%"
+              },
+              {
+                            "name": "Cardano",
+                            "price": "$1.190.00002520",
+                            "marketCap": "$38.180 B",
+                            "volume": "$1.266 B",
+                            "totalCap": "$38.18 B",
+                            "allTimeHigh4": "$3.09",
+                            "range24": "7.00%",
+                            "low24": "$1.11",
+                            "high24": "$1.20",
+                            "YearPer": "+0.41%"
+              },
+              {
+                            "name": "Terra",
+                            "price": "$94.390.00199776",
+                            "marketCap": "$1.345 B",
+                            "volume": "$93.80 B",
+                            "totalCap": "356.038 M",
+                            "allTimeHigh4": "$33.608 B",
+                            "range24": "6.44%",
+                            "low24": "$90.22",
+                            "high24": "$96.44",
+                            "YearPer": "+400.8%"
+              },
+              {
+                            "name": "Dogecoin",
+                            "price": "$0.1495290.0000031646",
+                            "marketCap": "$1.186 B",
+                            "volume": "$19.84 B",
+                            "totalCap": "132.671 B",
+                            "allTimeHigh4": "$19.838 B",
+                            "range24": "8.66%",
+                            "low24": "$0.137725",
+                            "high24": "$0.150775",
+                            "YearPer": "+191.7%"
+              },
+              {
+                            "name": "Binance Coin",
+                            "price": "$434.700.00919997",
+                            "marketCap": "$71.779 B",
+                            "volume": "$2.371 B",
+                            "totalCap": "$71.78 B",
+                            "allTimeHigh4": "$691.56",
+                            "range24": "5.46%",
+                            "low24": "$411.59",
+                            "high24": "$435.37",
+                            "YearPer": "+60.6%"
+              },
+              {
+                            "name": "TerraUSD",
+                            "price": "$1.000.00002118",
+                            "marketCap": "$224.946 M",
+                            "volume": "$16.23 B",
+                            "totalCap": "16.217 B",
+                            "allTimeHigh4": "$16.226 B",
+                            "range24": "0.419096%",
+                            "low24": "$0.999404",
+                            "high24": "$1.00",
+                            "YearPer": "+0.4%"
+              },
+              {
+                            "name": "Avalanche",
+                            "price": "$91.510.00193665",
+                            "marketCap": "$24.456 B",
+                            "volume": "$709.295 M",
+                            "totalCap": "$34.57 B",
+                            "allTimeHigh4": "$146.47",
+                            "range24": "7.85%",
+                            "low24": "$85.01",
+                            "high24": "$92.25",
+                            "YearPer": "+220.1%"
+              },
+              {
+                            "name": "Ethereum",
+                            "price": "$3348.510.07086808",
+                            "marketCap": "$13.792 B",
+                            "volume": "$402.3 B",
+                            "totalCap": "120.145 M",
+                            "allTimeHigh4": "$402.306 B",
+                            "range24": "6.51%",
+                            "low24": "$3136.81",
+                            "high24": "$3355.31",
+                            "YearPer": "+96.09%"
+              },
+              {
+                            "name": "Tether",
+                            "price": "$1.000.00002122",
+                            "marketCap": "$54.210 B",
+                            "volume": "$81.58 B",
+                            "totalCap": "81.375 B",
+                            "allTimeHigh4": "$81.582 B",
+                            "range24": "0.296309%",
+                            "low24": "$1.00",
+                            "high24": "$1.00",
+                            "YearPer": "+0.07%"
+              },
+              {
+                            "name": "TerraUSD",
+                            "price": "$1.000",
+                            "YearPer": "-0.82%",
+                            "volume": "$515.64 M",
+                            "marketCap": "$11.27 B"
+              },
+              {
+                            "name": "Uniswap",
+                            "price": "$11.47",
+                            "YearPer": "+28.45%",
+                            "volume": "$276.11 M",
+                            "marketCap": "$8.00 B"
+              }
+]
